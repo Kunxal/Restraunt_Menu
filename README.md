@@ -1,4 +1,5 @@
-# Restraunt_Menu
-A digital restaurant menu that allows users to browse dishes, view detailed descriptions.
+# 🍽️ Restraunt_Menu
 
-I created a restaurant website with an intuitive design, allowing users to easily browse the menu, view specials, and place orders. It supports secure online payments and reservation options for a hassle-free dining experience. The site connects customers to the restaurant with convenience and style.
+This project is a modern digital restaurant menu designed to deliver a smooth and engaging user experience. It allows customers to easily browse dishes, explore detailed descriptions, and view daily specials through an intuitive and visually appealing interface.
+
+The website also supports online ordering, secure payment integration, and table reservation features, making the dining process hassle-free and efficient. By combining functionality with a clean design, the platform bridges the gap between customers and the restaurant, offering convenience, accessibility, and a stylish online presence.
